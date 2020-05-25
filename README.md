@@ -6,7 +6,7 @@ Steps
 ---
 1. Click on the "Start" button.
 2. Once the background color is changed, click on the "Click!" button.
-3. The time difference between the user clicks "Click!" button and the background color is changed is measured as reaction time.
+3. The time difference between the user click and the background color change is measured as reaction time.
 
 
 Messages based on Reaction Time
