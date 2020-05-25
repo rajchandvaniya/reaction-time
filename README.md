@@ -1,5 +1,4 @@
 # Reaction Time Calculator
----
 A simple game to calculate the reaction time. User need to respond to the change in the background color.
 The webpage is hosted on the github page [here](https://rajchandvaniya.github.io/reaction-time/).
 
@@ -23,3 +22,4 @@ Messages based on Reaction Time
 
 Screenshot
 ---
+![Screenshot](https://github.com/rajchandvaniya/reaction-time/blob/master/screenshot.png?raw=true)
